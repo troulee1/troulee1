@@ -36,38 +36,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=arielsaid&show_icons=true&theme=radical" 
-    alt="arielsaid's GitHub stats" 
-    width="400"
-  />
-  <img 
-    src="https://streak-stats.demolab.com?user=arielsaid&theme=radical&hide_border=true" 
-    width="400"
-  />
-</p>
-
----
-
-#### Top Repositories
-
-
-<div align="center">
-<a href="https://github.com/arielsaid/content">
-  <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=arielsaid&repo=content&theme=buefy" />
-</a>
-
-<a href="https://github.com/arielsaid/winget-pkgs">
-  <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=arielsaid&repo=winget-pkgs&theme=buefy" />
-</a>
-
-</div>
-
----
-
 ### ☕ Let's Connect
 
 <p align="left">
